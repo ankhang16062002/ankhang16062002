@@ -1,6 +1,17 @@
 <a href="#" target="_blank">
   <img src="svg/ankhangdev.svg" width="1200" alt="Click to see the source" />
 </a>
+<br>
+
+<h2 align="center">🛠 Featured Project 🛠</h2>
+<br>
+
+<div>
+  <h3>My blog: </h3>
+  <p>Technologies: Front-end: ReactJS, Javascript, SCSS  Back-end: NodeJS Express</p>
+  <p><span>Link blog: <a href="https://myblogs1606.herokuapp.com/"></a></span></p>
+  <p><span>My repositories: <a href="https://myblogs1606.herokuapp.com/"></a></p>
+</div>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
