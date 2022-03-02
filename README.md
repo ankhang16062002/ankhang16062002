@@ -3,9 +3,6 @@
 </a>
 <br>
 
-<h2 align="center">🛠 Featured Project 🛠</h2>
-<br>
-
 <div>
   <h2>My blog: </h2>
   <p>Technologies: Front-end: ReactJS, Javascript, SCSS ---- Back-end: NodeJS Express</p>
